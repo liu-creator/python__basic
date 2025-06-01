@@ -38,7 +38,7 @@ def sun_flower():
     turtle.color("red", "yellow")
 
     turtle.begin_fill()
-    for _ in range(6):     # 画36条线
+    for _ in range(6):     # 画36条线30333
         turtle.forward(400)
         turtle.left(170)
     turtle.end_fill()
